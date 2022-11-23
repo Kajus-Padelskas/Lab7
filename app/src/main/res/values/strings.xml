@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="battery_level_notifications">Battery level notifications</string>
+</resources>
